@@ -56,7 +56,7 @@ Worldwide, a new surge in refugees is occurring. From the southern border of the
 * [Can Blockchain keep Refugees from becoming 'Invisible'?](https://brightthemag.com/can-blockchain-keep-refugees-from-becoming-invisible-technology-innovation-disaster-52981d654385)
 
 
-###Blockchain solution
+### Blockchain solution
 The Blockchain will host and transact valued assets and identity proofs through its publicly distributed ledger. Identities verified on the blockchain cannot be faked, and are time-stamped and public.
 
 Refugees could use these documents on Blockchain to prove their identity and that of their families, open bank accounts, sign contracts or apply to university.
