@@ -1,11 +1,11 @@
 # Online-Voting WebApp and Digital Identification
---
+
 This project has:
 
 * A **Blockchain based Voting WebApp** (Online-Voting)
 * A **Digital Identification System** to help with **Refugee Crisis and Citizenship**
 
--- 
+ 
 ## Online-Voting
 Current electronic voting systems are centralized by design and a single supplier controls the code base, database and the system outputs and supplies the monitoring tools at the same time. They lack an open-source, independently verifiable output to gain the confidence required by voters.
 
@@ -46,7 +46,7 @@ Chapter 22 - Blockchain Electronic Vote](https://www.sciencedirect.com/science/a
 	1. Voters can use the Transaction/Voter ID to verify if the signature is published in the right way.
 	2. Candidates can check the count of votes in his/her favour through his Candidate ID.
 
---
+
 ## Digital Identification
 Worldwide, a new surge in refugees is occurring. From the southern border of the United States to the Middle East to Myanmar, the number of displaced keeps on growing. More than 50 million people are estimated to have been forcibly displaced from their homes.
 
@@ -61,8 +61,7 @@ The Blockchain will host and transact valued assets and identity proofs through 
 
 Refugees could use these documents on Blockchain to prove their identity and that of their families, open bank accounts, sign contracts or apply to university.
 
---
---
+
 #### Team Members:
 1. [Aman Toppo](https://github.com/amntoppo)
 2. [Saurav Kumar Singh](https://github.com/saurav3199)
